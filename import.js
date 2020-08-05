@@ -1,1 +1,1 @@
-import {bootstrap} from "bootstarp.min.js"
+import {bootstrap} from "jquery.min.js"
